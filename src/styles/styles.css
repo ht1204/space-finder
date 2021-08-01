@@ -1,0 +1,8 @@
+.parentComponent{
+    border: 4px solid black;
+}
+
+.childComponent{
+    border: 4px dotted black;
+    width: 300px;
+}
